@@ -2,7 +2,7 @@ import { styled } from 'styled-components'
 
 export const LinguagensContainer = styled.main`
   display: grid;
-  width: 37rem;
+  width: 30rem;
   margin: 0 auto;
   flex-direction: column;
   align-items: center;
@@ -55,7 +55,7 @@ export const Code = styled.div`
   }
 `
 export const ProjetosSection = styled.section`
-width: 37rem;
+width: 30rem;
  .swiper-slide img {
   width: 250px;
 }

@@ -2,7 +2,7 @@ import { styled } from 'styled-components'
 
 export const ContatoContainer = styled.main`
   display: grid;
-  width: 37rem;
+  width: 30rem;
   margin: 0 auto;
   flex-direction: column;
   align-items: center;

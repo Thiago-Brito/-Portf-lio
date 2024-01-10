@@ -2,7 +2,7 @@ import { styled } from 'styled-components'
 
 export const HobbyContainer = styled.main`
   display: grid;
-  width: 37rem;
+  width: 30rem;
   margin: 0 auto;
   flex-direction: column;
   align-items: center;
@@ -54,33 +54,7 @@ export const Cards = styled.div`
 
 `
 
-export const BaseText = styled.div`
-  width: 37rem;
-  margin: 0 auto;
-  h3{
-    color: ${(props) => props.theme.white};
 
-    font-family: Poppins;
-    font-size: 3rem;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
-    margin-bottom: 3.8rem;
-  }
-  p{
-    color: ${(props) => props.theme['base-text']};
-    font-family: Poppins;
-    font-size: 2rem;
-    font-style: normal;
-    font-weight: 300;
-    line-height: normal;
-    
-  }
-  @media (min-width: 1024px) {
-    width: 60rem;
-    
-  }
-`
 
 export const AutoFoto = styled.div`
   
