@@ -16,7 +16,7 @@ export const IntroText = styled.div`
   justify-content: space-between;
   gap: 10.6rem;
   
-  width: 37rem;
+  width: 34rem;
   margin: 0 auto;
   flex-direction: column;
   align-items: center;
