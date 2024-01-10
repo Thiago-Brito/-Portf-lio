@@ -7,7 +7,7 @@ export const LayoutContainer = styled.div`
   flex-direction: column;
   padding-bottom: 3rem;
   min-height: 100vh;
-
+  width: 30rem;
   main {
   flex: 1; 
 }
@@ -16,6 +16,11 @@ footer {
   
   text-align: center;
 }
+
+@media (min-width: 1024px) {
+    width:100%;
+    
+  }
 `
 
 
