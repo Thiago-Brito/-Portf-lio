@@ -30,13 +30,13 @@ export const IntroText = styled.div`
 `
 
 export const BaseText = styled.div`
-  width: 37rem;
+  
   margin: 0 auto;
   h3{
     color: ${(props) => props.theme.white};
 
     font-family: Poppins;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -45,7 +45,7 @@ export const BaseText = styled.div`
   p{
     color: #B3B3B3;
     font-family: Poppins;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
