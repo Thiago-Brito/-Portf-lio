@@ -3,8 +3,9 @@ import { styled } from 'styled-components'
 export const HomeContainer = styled.main`
   display: grid;
   margin-top: 10rem;
+  width: 30rem;
   @media (min-width: 1024px) {
-    
+    width: 100%;
     margin:0;
   }
 
