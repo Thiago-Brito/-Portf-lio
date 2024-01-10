@@ -15,6 +15,11 @@ p{
     line-height: normal;
     cursor:pointer;
   }
+  p:hover{
+    
+    color: ${(props) => props.theme['hover-text']};
+  
+  }
   @media (min-width: 1024px) {
    margin:0;
   }

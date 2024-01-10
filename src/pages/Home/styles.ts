@@ -53,6 +53,12 @@ export const BaseText = styled.div`
   }
   @media (min-width: 1024px) {
     width: 60rem;
+    h3{
+      font-size: 3rem;
+    }
+    p{
+      font-size: 2.3rem;
+    }
     
   }
 `
