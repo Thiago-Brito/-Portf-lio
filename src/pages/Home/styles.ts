@@ -49,6 +49,7 @@ export const BaseText = styled.div`
     font-style: normal;
     font-weight: 300;
     line-height: normal;
+    text-align: justify;
     
   }
   @media (min-width: 1024px) {

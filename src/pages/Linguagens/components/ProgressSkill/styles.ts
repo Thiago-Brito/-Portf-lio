@@ -14,8 +14,6 @@ export const ProgressSkillContainer = styled.div`
   }
   @media (min-width: 1024px) {
     width: 299px;
-    
-    
   }
 `
 

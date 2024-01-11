@@ -43,9 +43,11 @@ export const HeaderContainer = styled.header`
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    transition: transform 0.2s ease;
   }
   h2:hover{
     color: ${(props) => props.theme['hover-text']};
+    transform: scale(1.05);
   }
 
   @media (min-width: 1024px) {

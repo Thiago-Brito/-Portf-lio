@@ -1,3 +1,4 @@
+
 import {
   LinguagensContainer,
   LinguagensSection,
@@ -31,6 +32,7 @@ import { EffectCoverflow, Pagination, Navigation } from 'swiper/modules';
 import { ProgressSkill } from './components/ProgressSkill'
 
 export function Linguagens() {
+
   
 const data=[
   {id:'3', image: Projeto3},
@@ -38,6 +40,8 @@ const data=[
   {id:'1', image: Projeto},
   
 ]
+
+
   return (
     <LinguagensContainer>
       <LinguagensSection>

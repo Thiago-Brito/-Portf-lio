@@ -56,6 +56,16 @@ export const Contact = styled.div`
 export const GroupContact = styled.div`
   display: grid;
   gap:10rem;
+  a{
+    transition: transform 0.2s ease;
+  }
+  a:hover{
+    p{
+      color: ${(props) => props.theme['hover-text']};
+      transform: scale(1.02);
+    }
+    
+  }
 `
 export const TextContact = styled.div`
   display: grid;
