@@ -6,42 +6,42 @@ Site responsivo
 
 - Mobile
 
-  ![Home](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/MHome.png)
+  ![Home](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/MHome.png)
 
 - Destokp
   
-  ![Home](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/DHome.png)
+  ![Home](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/DHome.png)
 
 
 # Hooby
 
 - Mobile
 
-  ![Hooby](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/MHooby.png)
+  ![Hooby](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/MHooby.png)
 
 - Destokp
   
-  ![Hooby](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/DHooby.png)
+  ![Hooby](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/DHooby.png)
 
 # Linguagens
 
 - Mobile
 
-  ![Linguagens](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/MLinguagens.png)
+  ![Linguagens](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/MLinguagens.png)
 
 - Destokp
   
-  ![Linguagens](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/DLinguagens.png)
+  ![Linguagens](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/DLinguagens.png)
 
 # Contate-me
 
 - Mobile
 
-  ![Contate-me](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/Mcontato.png)
+  ![Contate-me](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/Mcontato.png)
 
 - Destokp
   
-  ![Contate-me](https://github.com/Thiago-Brito/Portfolio/tree/main/readmeAssets/Dcontato.png)
+  ![Contate-me](https://github.com/Thiago-Brito/Portfolio/blob/main/readmeAssets/Dcontato.png)
  
 
 ## Deploy
