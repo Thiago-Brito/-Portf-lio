@@ -25,7 +25,7 @@ export function Header() {
               <h2 style={{ color: location.pathname === '/linguagens' ? '#777CF4' : '' }}>Linguagens</h2>
             </NavLink>
             <NavLink  to="/contato" >
-              <h2  style={{ color: location.pathname === '/contato' ? '#777CF4' : '' }}>Contacte-me</h2>
+              <h2  style={{ color: location.pathname === '/contato' ? '#777CF4' : '' }}>Contate-me</h2>
             </NavLink>
           </nav>
         

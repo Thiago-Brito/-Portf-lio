@@ -16,7 +16,7 @@ export function Contato() {
   return (
     <ContatoContainer>
         <div>
-        <h3>Contacte-me</h3>
+        <h3>Contate-me</h3>
         <GroupContact>
         <a href="https://linkedin.com/in/thiago-brito-1b7a82242" target='_blank'>
         <Contact>
